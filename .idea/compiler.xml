@@ -24,11 +24,17 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="edu-demo" />
+        <module name="edu-facade-user" />
+        <module name="edu-service-user" />
+        <module name="edu-web-boss" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="edu-common-parent" target="1.7" />
       <module name="edu-demo" target="1.7" />
+      <module name="edu-facade-user" target="1.7" />
+      <module name="edu-service-user" target="1.7" />
+      <module name="edu-web-boss" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

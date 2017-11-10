@@ -3,5 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/edu-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edu-facade-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edu-service-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edu-web-boss" charset="UTF-8" />
   </component>
 </project>

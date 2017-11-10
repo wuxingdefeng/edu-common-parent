@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/edu-common-parent.iml" filepath="$PROJECT_DIR$/edu-common-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-demo/edu-demo.iml" filepath="$PROJECT_DIR$/edu-demo/edu-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-facade-user/edu-facade-user.iml" filepath="$PROJECT_DIR$/edu-facade-user/edu-facade-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-service-user/edu-service-user.iml" filepath="$PROJECT_DIR$/edu-service-user/edu-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-web-boss/edu-web-boss.iml" filepath="$PROJECT_DIR$/edu-web-boss/edu-web-boss.iml" />
     </modules>
   </component>
 </project>
